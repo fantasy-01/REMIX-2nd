@@ -1,5 +1,5 @@
 {
-  "remoteURL": "https://github.com/fantasy-01/REMIX-2nd.git",
+  "remoteURL": "git@github.com:fantasy-01/REMIX-2nd.git",
   "gitLocation": "",
   "syncinterval": 0,
   "isSyncOnLoad": true,
