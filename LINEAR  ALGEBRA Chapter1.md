@@ -18,4 +18,21 @@
 列出二元一次方程组求解即可.画到平面坐标系上似乎还是对俩箭头进行长度倍增缩短操作使其加和等效于第三个箭头这样.
 实际上 矩阵是$\begin{bmatrix} 2 & -1 \\ -1 & 2 \end{bmatrix}$对向量$b$ 进行了一次线性变换（具体详见3b1b视频，直观地呈现了该过程），那么与此同时这道题其实是在问能否找到一个向量$\begin{bmatrix} c \\ d \end{bmatrix} ，在对其进行线性变换后得到的向量是已知的\begin{bmatrix} 1 \\ 0 \end{bmatrix} .$需要注意该变换后得到的向量仍然针对原坐标框架描述.
 
+# 1.2 单位向量，以及点积$（Dot Product）$，模长
+
+$需要注意的是点积结果与其计算先后顺序是无关系的，即满足交换律\overrightarrow{a}\cdot \overrightarrow{b}=\overrightarrow{b}\cdot \overrightarrow{a}$
+
+$零向量同任意向量垂直.$
+
+$模长的计算：\left\| v\right\| =\sqrt{v\cdot v}=\left( v_{1}^{2}+v_{2}^{2}+\ldots +v_{n}^{2}\right) ^{1/2}$
+
+$两向量夹角满足关系：\cos 0=\dfrac{v\cdot w}{\left\| \upsilon \right\| \left\| w\right\| }$
+
+$以及两个重要的不等式：\left| v\cdot w\right| \leq \left\| v\right\| \left\| w\right\|$
+$\left\| v+w\right\| \leq \left\| \upsilon \right\| +\left\| w\right\|$
+
+给这一节看完做了做题好像也没出现什么新的值得注意的概念，其实计算方法这些应该是没必要写的才对，需要时随时查就行了.其实$Deep  Learning$原书中靠前一部分是有数学基础关于线代的介绍的，奈何讲得太速通太抽象了
+
+
+
 
