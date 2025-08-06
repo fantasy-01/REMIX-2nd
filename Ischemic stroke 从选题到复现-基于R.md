@@ -498,17 +498,17 @@ Figure结果呈现
 
 - 风险因素数据
 
-|   数据组别   | 数据筛选选项                                                 |
-| :----------: | ------------------------------------------------------------ |
-| GBD Estimate | Risk factor                                                  |
-|   Measure    | 1) Deaths <br/>2) DALYs (Disability-Adjusted Life years)     |
-|    Metric    | Percent                                                      |
+|     数据组别     | 数据筛选选项                                                                                         |
+| :----------: | ---------------------------------------------------------------------------------------------- |
+| GBD Estimate | Risk factor                                                                                    |
+|   Measure    | 1) Deaths <br/>2) DALYs (Disability-Adjusted Life years)                                       |
+|    Metric    | Percent                                                                                        |
 |     Risk     | 1) High body-mass index <br/>2) High alcohol use <br/>3) Low physical activity <br/>4) Tobacco |
-|    Cause     | Ischemic stroke                                              |
-|   Location   | 1) Global <br/>2) 5 SDI-level regions <br/>3) 21 GBD regions |
-|     Age      | All ages                                                     |
-|     Sex      | Both                                                         |
-|     Year     | 2021                                                         |
+|    Cause     | Ischemic stroke                                                                                |
+|   Location   | 1) Global <br/>2) 5 SDI-level regions <br/>3) 21 GBD regions                                   |
+|     Age      | All ages                                                                                       |
+|     Sex      | Both                                                                                           |
+|     Year     | 2021                                                                                           |
 
 - 注意：只保留CSV文件即可，TXT文件是说明文本
 
