@@ -4577,24 +4577,4 @@ dev.off()
 
 
 
-# 小结
-
-（1）课程资料包括**GBD数据库对标柳叶刀子刊-从选题到复现全部代码（数据提取、趋势图、趋势表、世界地图、年龄变化趋势、世界地图、总体变化趋势、风险因素分布、未来趋势预测）、课程数据和结果、对标文章、课程讲义等**。关注公众号“诺维医研”，回复“`gbd2401`”，获取课程资料链接。
-
-<img src="https://s2.loli.net/2024/10/24/AazocY64kM2wpHC.jpg" alt="image-20241024200943" style="zoom:80%;" />
-
-
-
-（2）**医学公共数据数据库学习训练营**已开班，论文指导精英班学员可获取推荐审稿人信息，欢迎咨询课程助理！
-
-[了解详情|医学公共数据库学习训练营](http://mp.weixin.qq.com/s?__biz=MzAwNzc1MTA1Mw==&mid=2247491271&idx=1&sn=9d2ffddddd7c0b15462c32f9334cd0a9&chksm=9b780a25ac0f8333bce016a8825c9532b99eac62147a87af29dd845ca902a67853c708cc99d9&scene=21#wechat_redirect)
-
-![image-训练营](https://s2.loli.net/2024/10/20/JwE64MTIUsKYvkf.png)
-
-(http://mp.weixin.qq.com/s?__biz=MzAwNzc1MTA1Mw==&mid=2247491271&idx=1&sn=9d2ffddddd7c0b15462c32f9334cd0a9&chksm=9b780a25ac0f8333bce016a8825c9532b99eac62147a87af29dd845ca902a67853c708cc99d9&scene=21#wechat_redirect)
-
-（3）**数据提取和数据分析定制**，具体扫码咨询课程助理。
-
-<img src="https://gitee.com/shenghuaxiong/typora/raw/master/img/202410150704181.png" alt="image-20240914140249094" style="zoom: 67%;" />
-
-（4）视频号课程推荐
+]]
