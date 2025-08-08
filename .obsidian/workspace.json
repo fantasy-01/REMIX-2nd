@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ischemic stroke 从选题到复现-基于R.md",
+                "file": "Physiology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ischemic stroke 从选题到复现-基于R"
+              "title": "Physiology"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a45ebff6d955b6d6",
@@ -171,9 +172,9 @@
   },
   "active": "29b69dce605f5615",
   "lastOpenFiles": [
+    "Ischemic stroke 从选题到复现-基于R.md",
     "Pasted image 20250808180409.png",
     "Physiology.md",
-    "Ischemic stroke 从选题到复现-基于R.md",
     "LINEAR  ALGEBRA Chapter1.md",
     "包括但不限于做题的生词.md",
     "血红蛋白.md",
