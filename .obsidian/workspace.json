@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "截止9.30 工作进度以及个人理解.md",
+                "file": "截止10.1 工作进度以及个人理解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "截止9.30 工作进度以及个人理解"
+              "title": "截止10.1 工作进度以及个人理解"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a45ebff6d955b6d6",
@@ -187,8 +186,12 @@
   },
   "active": "63bac734ef3bdb91",
   "lastOpenFiles": [
+    "d4f7edbb0de800ed0e19bc5d09c958dd.png",
+    "Merfish_Brain_training_data.h5ad",
+    "GeneratingExampleData 1.py",
+    "GeneratingExampleData.py",
     "血红蛋白.md",
-    "截止9.30 工作进度以及个人理解.md",
+    "截止10.1 工作进度以及个人理解.md",
     "包括但不限于做题的生词.md",
     "Ischemic stroke 从选题到复现-基于R.md",
     "Physiology.md",
